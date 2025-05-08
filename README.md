@@ -84,6 +84,4 @@ npm start
 
 ---
 
-## 📫 Author
-
 
